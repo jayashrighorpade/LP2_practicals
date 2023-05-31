@@ -1,0 +1,27 @@
+create object
+object manager > create new object > add label and plural label > save
+
+create fields
+object manager drop down > click on object > field and relationship
+new > select data type > field label
+
+create tab
+the setting thing to the right > setup > view will change(there will be a setup tab 
+besides home tab)
+search > tabs > custom tab > custom object tab > new  
+select the object > selectany tab style > next > save > create tab for all objects 
+
+create app
+Home > search > app manager > new lightning app > write app name next > fourth next 
+> add all the tabs custom or inbuilt 
+User profile > system administrator > save and finish 
+
+click on the nine dots on left > search > app name  
+
+creating view 
+Home > lightning app builder > new > app pages > enter label > select layout 
+> create page > save > activate > save 
+home > app manager > search for app > navigation items > select page 
+> save  
+
+click on the nine dots on left > search > app name  
